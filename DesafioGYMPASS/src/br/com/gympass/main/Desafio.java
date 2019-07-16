@@ -1,4 +1,4 @@
-package br.com.gympass.utils;
+package br.com.gympass.main;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,8 +8,8 @@ import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.gympass.main.UtilsGympass;
 import br.com.gympass.model.Piloto;
+import br.com.gympass.utils.UtilsGympass;
 
 /**
  * Classe responsavel por manipular o arquivo

@@ -1,4 +1,4 @@
-package br.com.gympass.main;
+package br.com.gympass.utils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
