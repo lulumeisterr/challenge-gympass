@@ -17,8 +17,7 @@ import br.com.gympass.utils.UtilsGympass;
  */
 
 public class Desafio {
-
-	// Ajustar o diretorio para pegar caminho relativo
+	
 	static File arq = new File("txt/V01_LOG_KART.txt");
 
 	public static void main(String[] args) throws ParseException {
