@@ -1,1 +1,3 @@
 /br/
+*.metadata
+*.DS_STORE
